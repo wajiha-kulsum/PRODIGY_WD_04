@@ -42,10 +42,26 @@ This portfolio is an interactive and responsive web application featuring:
 
 ---
 
-## **Setup and Installation**
 
-To run this project locally, follow these steps:
 
-1. **Clone the Repository**:  
+
+## How to Clone the Repository
+
+Follow these steps to clone the repository to your local machine:
+
+1. **Copy the Repository URL**:
+   - Go to the GitHub repository page you want to clone.
+   - Click on the **"Code"** button (usually a green button) on the top right.
+   - Copy the **HTTPS** URL (e.g., `https://github.com/wajiha-kulsum/PRODIGY_WD_03.git`).
+
+2. **Open a Terminal or Command Prompt**:
+   - On Windows, use **Git Bash** or Command Prompt.
+   - On macOS or Linux, use the **Terminal**.
+
+3. **Navigate to the Directory** where you want to clone the repository:
+   - Use the `cd` (change directory) command to move to the folder where you want the repository to be cloned.
+
+   Example:
+  1. Clone this repository:  
    ```bash
    git clone https://github.com/wajiha-kulsum/PRODIGY_WD_04.git
