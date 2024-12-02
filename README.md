@@ -52,5 +52,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/wajiha-kulsum/portfolio.git
-   cd portfolio
+   git clone https://github.com/wajiha-kulsum/PRODIGY_WD_04.git
