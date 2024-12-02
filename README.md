@@ -42,7 +42,6 @@ This portfolio is an interactive and responsive web application featuring:
 |-------------------|------------------------------------------|--------------------------------------|
 | **HTML5**        | Markup language for structuring content. | Provides the foundation for the site. |
 | **CSS3**         | Styling language for layout and design.  | Adds visual appeal and responsiveness. |
-| **Font Awesome** | Library of icons and symbols.            | Integrates social media and feature icons. |
 | **VS Code**      | Code editor with extensions.             | For efficient development and debugging. |
 
 ---
