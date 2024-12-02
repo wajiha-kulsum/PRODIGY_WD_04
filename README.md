@@ -9,11 +9,7 @@ Welcome to my **Portfolio Website**, a showcase of my professional journey, skil
 - [Overview](#overview)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
-- [Setup and Installation](#setup-and-installation)  
-- [Screenshots](#screenshots)  
-- [Future Enhancements](#future-enhancements)  
-- [Contact](#contact)  
-
+- [Setup and Installation](#setup-and-installation) 
 ---
 
 ## **Overview**
